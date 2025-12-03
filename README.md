@@ -1,5 +1,12 @@
 # Vulnerability Detection in Blockchain Smart Contracts
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.10-blue">
+  <img src="https://img.shields.io/badge/Solidity-0.8.0-black">
+  <img src="https://img.shields.io/badge/License-MIT-yellow">
+  <img src="https://img.shields.io/github/languages/top/HarshReddy10/Final-Year-Project">
+
+</p>
 This project aims to detect vulnerabilities in Ethereum smart contracts using 
 graph-based analysis and machine learning models.  
 It was developed as the Final Year Project for our B.Tech degree.
